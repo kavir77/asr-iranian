@@ -1,0 +1,58 @@
+[
+  {
+    "id": "1",
+    "number": 1,
+    "date": "2025-07-01",
+    "imageUrl": "/newspapers/1.jpg",
+    "pdfUrl": "/pdfs/1.pdf"
+  },
+  {
+    "id": "2",
+    "number": 2,
+    "date": "2025-07-02",
+    "imageUrl": "/newspapers/2.jpg",
+    "pdfUrl": "/pdfs/1.pdf"
+  },
+  {
+    "id": "3",
+    "number": 3,
+    "date": "2025-07-02",
+    "imageUrl": "/newspapers/3.jpg",
+    "pdfUrl": "/pdfs/1.pdf"
+  },
+  {
+    "id": "4",
+    "number": 4,
+    "date": "2025-07-03",
+    "imageUrl": "/newspapers/4.jpg",
+    "pdfUrl": "/pdfs/1.pdf"
+  },
+  {
+    "id": "5",
+    "number": 5,
+    "date": "2025-07-04",
+    "imageUrl": "/newspapers/5.jpg",
+    "pdfUrl": "/pdfs/1.pdf"
+  },
+  {
+    "id": "6",
+    "number": 6,
+    "date": "2025-07-05",
+    "imageUrl": "/newspapers/6.jpg",
+    "pdfUrl": "/pdfs/1.pdf"
+  },
+  {
+    "id": "7",
+    "number": 7,
+    "date": "2025-07-06",
+    "imageUrl": "/newspapers/7.jpg",
+    "pdfUrl": "/pdfs/1.pdf"
+  },
+  {
+    "id": "8",
+    "number": 8,
+    "date": "2025-07-07",
+    "imageUrl": "/newspapers/8.jpg",
+    "pdfUrl": "/pdfs/1.pdf"
+  }
+]
