@@ -56,19 +56,23 @@ export default function HomePage({ pdfUrl }) {
                         </button>
                     </a>
                 </div>
-                <div className='w-full bottom-0 left-0 fixed flex justify-center bg-white h-16 drop-shadow-xl drop-shadow-gray-600'>
-                    <button className="flex flex-col items-center text-xl w-1/3 h-full">
-                        <span className="text-xl my-auto">یادداشت‌ها</span>
+                <div className="w-full bottom-0 left-0 fixed flex justify-center bg-white h-16 drop-shadow-xl drop-shadow-gray-600">
+                    <button className="flex flex-col items-center text-xs w-1/3 h-full justify-center">
+                        <img src="/icons/vuesax-twotone-quote-up-circle.svg" alt="یادداشت‌ها" className="w-6 h-6 mb-1" />
+                        <span className="text-sm">یادداشت‌ها</span>
                     </button>
-                    <button className="flex flex-col items-center text-xl w-1/3 h-full">
 
-                        <span className="text-xl my-auto">امروز</span>
+                    <button className="flex flex-col items-center text-xs w-1/3 h-full justify-center">
+                        <img src="/icons/vuesax-broken-chart.svg" alt="امروز" className="w-6 h-6 mb-1" />
+                        <span className="text-sm">امروز</span>
                     </button>
-                    <button className="flex flex-col items-center text-xl w-1/3 h-full">
 
-                        <span className="text-xl my-auto">آرشیو</span>
+                    <button className="flex flex-col items-center text-xs w-1/3 h-full justify-center">
+                        <img src="/icons/vuesax-twotone-note.svg" alt="آرشیو" className="w-6 h-6 mb-1" />
+                        <span className="text-sm">آرشیو</span>
                     </button>
                 </div>
+
             </div>
         </>
     );

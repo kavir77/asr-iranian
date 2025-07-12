@@ -1,4 +1,8 @@
 export default function EditionSelector({ editions, selectedId, onSelect }) {
+  function toPersianNumber(number) {
+    return number.toString().replace(/\d/g, (d) => '۰۱۲۳۴۵۶۷۸۹'[d]);
+  }
+
   return (
     <div className="p-2 rounded-lg flex gap-2 justify-start overflow-x-auto whitespace-nowrap scrollbar-thin scrollbar-thumb-gray-400">
       {editions.map((ed) => (
@@ -11,7 +15,7 @@ export default function EditionSelector({ editions, selectedId, onSelect }) {
               : 'bg-white text-gray-800 hover:bg-gray-200'
           }`}
         >
-          {ed.number}
+          {toPersianNumber(ed.number)}
         </button>
       ))}
     </div>
