@@ -1,0 +1,10 @@
+<svg id="vuesax_twotone_filter-search" data-name="vuesax/twotone/filter-search" xmlns="http://www.w3.org/2000/svg" width="39" height="39" viewBox="0 0 39 39">
+  <g id="filter-search">
+    <path id="Vector" d="M17.891,27.722a3.65,3.65,0,0,1-1.479,2.8L14.121,32a3.344,3.344,0,0,1-5.086-2.8V20.507a6.23,6.23,0,0,0-1.316-3.445L1.479,10.5A5.4,5.4,0,0,1,0,7.215V3.445A3.333,3.333,0,0,1,3.283,0H24.96a3.294,3.294,0,0,1,3.283,3.282V6.89A6.131,6.131,0,0,1,26.6,10.66" transform="translate(5.379 3.266)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" opacity="0.4"/>
+    <g id="Group" transform="translate(20.914 16.445)">
+      <path id="Vector-2" data-name="Vector" d="M10.4,5.2A5.2,5.2,0,1,1,5.2,0,5.2,5.2,0,0,1,10.4,5.2Z" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+      <path id="Vector-3" data-name="Vector" d="M1.625,1.625,0,0" transform="translate(9.75 9.75)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+    </g>
+    <path id="Vector-4" data-name="Vector" d="M0,0H39V39H0Z" transform="translate(39 39) rotate(180)" fill="none" opacity="0"/>
+  </g>
+</svg>

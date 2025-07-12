@@ -1,0 +1,10 @@
+<svg id="vuesax_twotone_crop" data-name="vuesax/twotone/crop" xmlns="http://www.w3.org/2000/svg" width="62.932" height="62.932" viewBox="0 0 62.932 62.932">
+  <g id="crop">
+    <path id="Vector" d="M12.849,36.71H36.71V12.849C36.71,2.622,34.088,0,23.862,0H0V23.862C0,34.088,2.622,36.71,12.849,36.71Z" transform="translate(13.111 13.111)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" opacity="0.4"/>
+    <path id="Vector-2" data-name="Vector" d="M0,7.866V0" transform="translate(13.111 5.244)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <path id="Vector-3" data-name="Vector" d="M7.866,0H0" transform="translate(5.244 13.111)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <path id="Vector-4" data-name="Vector" d="M0,0V7.866" transform="translate(49.821 49.821)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <path id="Vector-5" data-name="Vector" d="M0,0H7.866" transform="translate(49.821 49.821)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <path id="Vector-6" data-name="Vector" d="M0,0H62.932V62.932H0Z" fill="none" opacity="0"/>
+  </g>
+</svg>
